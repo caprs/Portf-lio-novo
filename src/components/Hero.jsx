@@ -60,7 +60,7 @@ export default function Hero() {
 
             {/* imagem */}
             <img
-              src="/public/fotoperfil.jpeg"
+              src="/fotoperfil.jpeg"
               alt="Ana Livia"
               className="relative w-[280px] h-[280px] md:w-[350px] md:h-[350px] 
                 rounded-full object-cover 
